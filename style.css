@@ -1,0 +1,238 @@
+body {
+  background-color: aliceblue;
+}
+p {
+  color: rgb(98, 98, 98);
+}
+header {
+  font-family: "Playfair Display";
+  font-weight: 400;
+  margin-bottom: 5%;
+}
+.spanone {
+  width: 113px;
+  height: 42px;
+  line-height: 24px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+  text-align: center;
+  margin-left: 27%;
+  font-size: large;
+}
+.spantwo {
+  width: 113px;
+  height: 42px;
+  line-height: 24px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+  text-align: center;
+  margin-left: 10%;
+  font-size: large;
+}
+.spanthree {
+  width: 113px;
+  height: 42px;
+  line-height: 24px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+  text-align: center;
+  margin-left: 10%;
+  font-size: large;
+}
+.spanfour {
+  width: 113px;
+  height: 42px;
+  line-height: 24px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+  text-align: center;
+  margin-left: 10%;
+  font-size: large;
+}
+.picone {
+  padding-left: 18%;
+  padding-right: 10%;
+}
+.one {
+  width: 408px;
+  height: 25px;
+  font-size: 14px;
+  color: #b4ad9e;
+  font-weight: 300;
+  font-family: "Ubuntu", sans-serif;
+  padding-left: 18%;
+  padding-right: 23.9%;
+}
+.two {
+  width: 408px;
+  height: 25px;
+  font-size: 14px;
+  color: #b4ad9e;
+  font-weight: 300;
+  font-family: "Ubuntu", sans-serif;
+  padding-left: 10%;
+  padding-right: 15%;
+}
+h1 {
+  box-sizing: content-box;
+  width: 50%;
+  height: 50%;
+  padding-left: 18%;
+  font-size: 30px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+}
+.FOOD {
+  width: 30%;
+  height: 50%;
+  margin: 10px;
+  padding-left: 17%;
+  font-size: large;
+  border: 50px;
+}
+.Kitty {
+  width: 30%;
+  height: 50%;
+  padding-left: 53.5%;
+  position: absolute;
+  top: 71.5%;
+  margin: 10px;
+  font-size: 30px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+}
+.Kitty1 {
+  width: 30%;
+  height: 50%;
+  margin: 10px;
+  padding-left: 53.5%;
+  top: 79%;
+  font-size: large;
+  border: 50px;
+  position: absolute;
+}
+.pictwo {
+  padding-left: 18%;
+  padding-right: 10%;
+  margin-top: 5%;
+}
+p {
+  width: 30%;
+  height: 50%;
+  margin: 10px;
+  padding-left: 17%;
+  font-size: large;
+  border: 50px;
+}
+.three {
+  width: 408px;
+  height: 25px;
+  font-size: 14px;
+  color: #b4ad9e;
+  font-weight: 300;
+  font-family: "Ubuntu", sans-serif;
+  padding-left: 18%;
+  padding-right: 23.9%;
+}
+h2 {
+  width: 50%;
+  height: 50%;
+  padding-left: 18%;
+  font-size: 30px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+}
+.four {
+  width: 408px;
+  height: 25px;
+  font-size: 14px;
+  color: #b4ad9e;
+  font-weight: 300;
+  font-family: "Ubuntu", sans-serif;
+  padding-left: 10%;
+  padding-right: 15%;
+}
+.Skyline {
+  width: 30%;
+  height: 50%;
+  padding-left: 53.5%;
+  position: absolute;
+  top: 160.5%;
+  margin: 10px;
+  font-size: 30px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+}
+.Skyline1 {
+  width: 30%;
+  height: 50%;
+  margin: 10px;
+  padding-left: 53.5%;
+  top: 167%;
+  font-size: large;
+  border: 50px;
+  position: absolute;
+}
+.picfoot {
+  padding-left: 18%;
+  padding-right: 10%;
+  margin-top: 5%;
+}
+.five {
+  width: 408px;
+  height: 25px;
+  font-size: 14px;
+  color: #b4ad9e;
+  font-weight: 300;
+  font-family: "Ubuntu", sans-serif;
+  padding-left: 18%;
+  padding-right: 23.9%;
+}
+.six {
+  width: 408px;
+  height: 25px;
+  font-size: 14px;
+  color: #b4ad9e;
+  font-weight: 300;
+  font-family: "Ubuntu", sans-serif;
+  padding-left: 8%;
+  padding-right: 15%;
+}
+.Space {
+  width: 30%;
+  height: 50%;
+  padding-left: 53.5%;
+  position: absolute;
+  top: 264%;
+  margin: 10px;
+  font-size: 30px;
+  color: #626262;
+  font-weight: 400;
+  font-family: "Playfair Display";
+}
+.Space1 {
+  width: 30%;
+  height: 50%;
+  margin: 10px;
+  padding-left: 53.5%;
+  top: 271%;
+  font-size: large;
+  border: 50px;
+  position: absolute;
+}
+.button {
+  font-family: "Playfair Display";
+  font-size: larger;
+  color: #626262;
+  margin-left: 48%;
+  margin-top: 5%;
+  width: 100px;
+}
