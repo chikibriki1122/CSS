@@ -1,106 +1,66 @@
-* {
-  background-color: aliceblue;
+.wrapper {
+  width: 900px;
+  margin: auto;
   color: #626262;
 }
-a:link {
+
+.menu {
+  padding: 0;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.menu-item {
+  display: inline-block;
+  list-style: none;
+  padding: 50px 50px 50px 50px;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  font-family: "Playfair Display";
+}
+
+.link {
+  color: #626262;
   text-decoration: none;
 }
-a:hover {
+
+.link:hover {
   color: #03a9f4;
 }
-.q {
-  font-family: "Playfair Display";
-  font-size: 14px;
-  text-align: center;
-  margin-left: 30%;
-  font-size: large;
+
+.sect {
+  display: inline-block;
+  width: 420px;
+  /* margin-right: -4px; */
 }
-.w {
-  font-family: "Playfair Display";
-  font-size: 14px;
-  text-align: center;
-  margin-left: 9%;
-  font-size: large;
+
+.positioning {
+  margin-right: 55px;
 }
-.e {
-  font-family: "Playfair Display";
-  font-size: 14px;
-  text-align: center;
-  margin-left: 9%;
-  font-size: large;
+
+.btn-box {
+  margin: 50px auto;
 }
-.r {
-  font-family: "Playfair Display";
-  font-size: 14px;
-  text-align: center;
-  margin-left: 9%;
-  font-size: large;
+
+.btn-one {
+  display: block;
+  margin: 50px auto;
+  padding: 10px 25px;
+  border: 1px solid #626262;
   color: #626262;
 }
-ul.top li {
-  display: inline;
-}
-p {
-  font-size: 14px;
-  color: #626262;
-  font-family: "Playfair Display";
-  font-size: large;
-}
-header {
-  font-family: "Playfair Display";
-  font-weight: 400;
-  margin-bottom: 5%;
-}
-h1 {
-  font-size: 14px;
+
+.subtitle {
   color: #b4ad9e;
-  font-family: "Ubuntu", sans-serif;
   font-weight: 300;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-family: "Ubuntu";
 }
+
 h2 {
   font-size: 30px;
-  color: #626262;
   font-weight: 400;
-  font-family: "Playfair Display";
 }
-div.teg {
-  width: 70%;
-  padding-left: 17%;
-  display: block;
-}
-.teg1 {
-  float: left;
-  margin-right: 5%;
-  margin-bottom: 5%;
-  width: 42%;
-}
-.teg2 {
-  float: right;
-  width: 42%;
-  margin-bottom: 7%;
-}
-h3 {
-  font-size: 14px;
-  color: #b4ad9e;
-  font-family: "Ubuntu", sans-serif;
-  font-weight: 300;
-}
-h4 {
-  font-size: 30px;
-  color: #626262;
-  font-weight: 400;
-  font-family: "Playfair Display";
-}
-.button {
-  border: 1px solid #626262;
-  width: 150px;
-  height: 50px;
-  background-color: #fff;
-  font-family: "Playfair Display";
-  font-size: 20px;
 
-  line-height: 24px;
-  cursor: pointer;
-  margin-left: 45%;
-  display: block;
-}
